@@ -1,7 +1,16 @@
----
-title: "Untitled"
----
+# Preamble {.unnumbered}
 
-Index & front matters
+The ICAO EUR region performance framework is defined in ICAO EUR Doc030 [@icao_doc030_2020].
 
+This document defines the ICAO EUR Region performance objectives, suitable Key Performance Areas (KPAs), Indicators (KPIs) and (realistically measurable) metrics to be used as part of a performance framework.
+ICAO EUR Doc 030 represents the regional implementation of the performance based approach.
+It supports the implementation of the Global Air Navigation Plan and adoption of the global performance management techniques, as part of the transition towards a performance-based global Air Navigation System
 
+The report for 2023 is produced as a web-book and supporting pdf document. 
+
+:::{.callout-note}
+
+The current version is work-in-progress with a deliverable date in October 2023.    
+Please consult these pages for the latest version.
+
+:::
