@@ -3,15 +3,15 @@ project:
   output-dir: docs
 
 book:
-  title: "ICAO Doc30 - Performance Monitoring"
-  author: "Doc30 Guidance Material Task Force"
+  title: "ICAO EUR Doc 030 - Performance Monitoring - 2023"
+  author: "Doc 030 Guidance Material Task Force"
   date: today
   output-file: "ICAO-Doc30-Monitoring"
   chapters:
     - index.qmd
     - 01-intro.qmd
   #  - summary.qmd
-    - 90-references.qmd
+    - 99-references.qmd
   downloads: [pdf]
 
 bibliography: references.bib
